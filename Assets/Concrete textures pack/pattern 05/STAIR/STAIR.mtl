@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Black
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Rough_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.537255 0.549020
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Steel_Textured
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.462745 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd STAIR/Metal_Steel_Textured.jpg
+
+newmtl Polished_Concrete_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.796078
+Ks 0.330000 0.330000 0.330000
+map_Kd STAIR/Polished_Concrete_New.jpg
+

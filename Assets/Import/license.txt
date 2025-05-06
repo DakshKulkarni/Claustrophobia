@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scout_hand_bloody
+* source:	https://sketchfab.com/3d-models/scout-hand-bloody-818f8930b37c488dab295a5350854bbb
+* author:	U.A.C.WAD (https://sketchfab.com/hilalarican23)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scout_hand_bloody" (https://sketchfab.com/3d-models/scout-hand-bloody-818f8930b37c488dab295a5350854bbb) by U.A.C.WAD (https://sketchfab.com/hilalarican23) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
